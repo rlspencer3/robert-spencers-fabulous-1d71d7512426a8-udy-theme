@@ -1,10 +1,10 @@
 <!doctype html><html data-wf-page="5ff53fee05351aa09bee0df7" data-wf-site="5ff53fee05351a85b4ee0df6"><head><style>html{visibility: hidden;opacity:0;}</style>{%- assign item = page | getCurrentPageItem -%}{%- assign pageItem = item -%}
   <meta charset="utf-8">
-  <title>music</title>
-  <meta content="music" property="og:title">
+  
+  
   <meta content="music" property="twitter:title">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta content="Webflow" name="generator">
+  
   <link href="/static/css/normalize.css" rel="preload" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
   <link href="/static/css/webflow.css" rel="preload" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
   <link href="/static/css/robert-spencers-fabulous-1d71d7512426a8.webflow.css" rel="preload" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
@@ -25,7 +25,7 @@
     display: none; // Safari and Chrome
 }
 </style>
-</head>
+{%- seo seo -%}</head>
 <body data-w-id="5fda85925647d1bc01dbab56" class="body">
   <div class="w-embed">
     <style>
@@ -58,7 +58,7 @@
       </div>
       <div class="section-9">
         <div class="div-block-33">
-          <a data-w-id="d12a8c5d-9c7d-95fe-0afd-10e4fdef6dd1" href="javascript:delay('https://nifty-lovelace-09cd8e.netlify.app/')" class="link-block-2 w-inline-block">
+          <a data-w-id="d12a8c5d-9c7d-95fe-0afd-10e4fdef6dd1" href="javascript:delay('https://robert-spencers-fabulous-1d71d7512426a8.webflow.io//')" class="link-block-2 w-inline-block">
             <div data-w-id="61b48318-22e0-45fc-15f5-a9909ce52ff1" style="opacity:0" class="w-embed"><svg id="Component_3_2" data-name="Component 3 – 2" xmlns="http://www.w3.org/2000/svg" width="75.661" height="75.66" viewBox="0 0 75.661 75.66">
                 <rect id="Rectangle_4" data-name="Rectangle 4" width="19" height="88" transform="translate(0 13.435) rotate(-45)" fill="#fff"></rect>
                 <rect id="Rectangle_5" data-name="Rectangle 5" width="19" height="88" transform="translate(62.225) rotate(45)" fill="#fff"></rect>
@@ -73,7 +73,7 @@
                   <div class="div-block-26">
                     <h2 data-w-id="c1e15a78-f80a-63cf-806f-9a97e5a6086e" style="-webkit-transform:translate3d(0, -100px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, -100px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, -100px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, -100px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);color:rgb(0,0,0)" class="heading-9">{{ item.data.name }}</h2>
                   </div>
-                  <div style="display:none" class="image-preview-wrap"><img loading="lazy" style="opacity:0" src="{{ item.data.image.url | escape }}" alt="{{ item.data.image.alt | escape }}" class="preview-image"></div>
+                  <div style="display:none" class="image-preview-wrap"><img loading="eager" style="opacity:0" src="{{ item.data.image.url | escape }}" alt="{{ item.data.image.alt | escape }}" class="preview-image"></div>
                 </a>
               </div>{%- endfor -%}
             </div>{%- endif -%}
