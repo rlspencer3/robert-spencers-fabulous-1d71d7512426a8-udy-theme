@@ -7,7 +7,7 @@ name: "Water In A Seive"
 slug: "aspernatur-aspernatur-iste"
 updated-on: "2020-12-31T00:19:23.246Z"
 image:
-  url: "https://uploads-ssl.webflow.com/5ff53fee05351a19c7ee0dff/5ff53fee05351a9ee7ee0e06_1609180098437-image1.jpg"
+  url: "https://github.com/rlspencer3/robert-spencers-fabulous-1d71d7512426a8-udy-theme/blob/master/site/songs/images/mates-2.PNG"
   alt: ""
 published-on: "2021-01-05T02:14:42.315Z"
 song-length: "2:43"
