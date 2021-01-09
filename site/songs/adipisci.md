@@ -7,7 +7,7 @@ name: "RICKYJOHANSEN"
 slug: "adipisci"
 updated-on: "2020-12-31T00:19:07.365Z"
 image:
-  url: "site/songs/images/mates-4-noise.png"
+  url: "https://github.com/rlspencer3/robert-spencers-fabulous-1d71d7512426a8-udy-theme/blob/master/site/songs/images/mates-2.PNG"
   alt: ""
 published-on: "2021-01-05T02:14:42.315Z"
 song-length: "1:34"
