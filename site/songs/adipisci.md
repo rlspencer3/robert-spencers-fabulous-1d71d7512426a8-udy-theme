@@ -7,7 +7,7 @@ name: "RICKYJOHANSEN"
 slug: "adipisci"
 updated-on: "2020-12-31T00:19:07.365Z"
 image:
-  url: "https://uploads-ssl.webflow.com/5ff53fee05351a19c7ee0dff/5ff53fee05351a7ab9ee0e03_1609180098389-image4.jpg"
+  url: "site/songs/images/mates-2.PNG"
   alt: ""
 published-on: "2021-01-05T02:14:42.315Z"
 song-length: "1:34"
